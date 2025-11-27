@@ -16,3 +16,7 @@ git reset HEAD filename > unstages files in staging area
 git stash > stashes work (if you want to change branches to do something else, saves in local directory)
 
 git stash pop > get back the saved stash
+
+git branch -a > shows all branches
+
+git branch BRANCHNAME > change branch
