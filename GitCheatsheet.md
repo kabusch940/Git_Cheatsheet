@@ -35,12 +35,13 @@ git log --oneline --graph > get visual representation of which
 git commit --amend --no-edit > edit your previous commit without renaming it (if you made a little mistake)
 
 
-## Set UP Git locally
+## Set Up Git Locally
 
-git config --global user.name "NAME"
-git config --global user.name
-
-git config --global user.email "YOUR_EMAIL"
+>git config --global user.name "NAME"
+>
+>git config --global user.name
+>
+>git config --global user.email "YOUR_EMAIL"
 
 ## Linking with GitHub
 
